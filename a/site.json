@@ -2,23 +2,23 @@
   "business": {
     "name": "plombier chauffagiste",
     "category": "Plombier Caen",
-    "address": "6 Rue Louis Robillard, 14000 Caen, France",
+    "address": "10 rue Saint-Pierre, 14000 Caen, France",
     "phone": "07 53 64 48 13",
     "rating": 5,
     "reviews": 24
   },
   "content": {
     "headline": "Votre plombier de confiance à Caen",
-    "subline": "Dépannage rapide, installation et entretien — intervention soignée, devis clair et sans surprise.",
+    "subline": "Dépannage rapide, installation et chauffage — un artisan noté 5/5 qui répond et intervient vite.",
     "services": [
-      "Dépannage fuite d'eau",
+      "Dépannage fuite \u0026 urgence",
       "Débouchage canalisation",
       "Installation sanitaire",
       "Chauffe-eau \u0026 ballon",
       "Entretien chaudière",
       "Rénovation salle de bain"
     ],
-    "about": "Plombier chauffagiste établi à Caen, nous intervenons chez les particuliers comme les professionnels pour tous vos besoins en plomberie et chauffage. Réputés pour notre sérieux et la qualité de nos finitions, nous privilégions le travail bien fait et la transparence des devis. De la petite réparation au projet complet, nous mettons notre savoir-faire au service de votre confort."
+    "about": "Plombier chauffagiste installé à Caen, je mets mon savoir-faire au service des particuliers et des professionnels de l'agglomération. De la petite réparation à l'installation complète, chaque intervention est réalisée avec soin, dans le respect des délais et d'un devis clair. Une exigence de qualité qui se reflète dans la satisfaction de mes clients."
   },
   "images": {
     "about": "assets/intervention.webp",
@@ -26,15 +26,15 @@
     "map": "assets/map.webp"
   },
   "map": {
-    "provider": "openstreetmap",
-    "city": "Lyon",
     "center": {
-      "lat": 45.764,
-      "lng": 4.8357
+      "lat": 49.1829,
+      "lng": -0.3707
     },
-    "radiusKm": 15,
+    "city": "Caen",
+    "label": "Caen · secteur d'intervention",
     "padding": 1.4,
-    "label": "Lyon · première couronne",
-    "title": "Carte OpenStreetMap de Lyon et sa première couronne"
+    "provider": "openstreetmap",
+    "radiusKm": 15,
+    "title": "Carte OpenStreetMap de Caen et son secteur"
   }
 }
